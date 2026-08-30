@@ -1,0 +1,3 @@
+[submodule "anchor-amm"]
+	path = anchor-amm
+	url = https://github.com/subhdotsol/AMM-Sandbox

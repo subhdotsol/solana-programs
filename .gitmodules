@@ -16,3 +16,6 @@
 [submodule "anchor-multisig-vault"]
 	path = anchor-multisig-vault
 	url = https://github.com/subhdotsol/multisig-vault
+[submodule "pinocchio-vault"]
+	path = pinocchio-vault
+	url = https://github.com/subhdotsol/pinnochio-vault

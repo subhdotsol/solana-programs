@@ -22,3 +22,6 @@
 [submodule "anchor-vault"]
 	path = anchor-vault
 	url = https://github.com/subhdotsol/turbin3-pre-req-vault
+[submodule "sbpf-time-locked-vault"]
+	path = sbpf-time-locked-vault
+	url = https://github.com/subhdotsol/sbpf-time-locked-vault

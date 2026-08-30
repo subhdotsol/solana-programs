@@ -25,3 +25,6 @@
 [submodule "sbpf-time-locked-vault"]
 	path = sbpf-time-locked-vault
 	url = https://github.com/subhdotsol/sbpf-time-locked-vault
+[submodule "quasar-staking-contract"]
+	path = quasar-staking-contract
+	url = https://github.com/subhdotsol/staking-quasar

@@ -4,6 +4,23 @@ A collection of Solana programs exploring on-chain systems, program architecture
 
 This repository is an index of my Solana work. Each program is maintained as an independent repository and included here as a Git submodule.
 
+## Structure
+
+The following programs are currently included:
+
+| Directory | Program | Description | Implementation |
+| --------- | ------- | ----------- | -------------- |
+| `anchor-amm` | AMM Sandbox | Constant-product market maker with liquidity deposits, swaps, and withdrawals | Anchor |
+| `pinochhio-amm` | Pinocchio AMM | Constant-product AMM written in Pinocchio, benchmarked against the Anchor implementation | Pinocchio |
+| `encrypted-calculator` | Encrypted Calculator | Arithmetic over encrypted inputs via Arcium confidential computing | Anchor / Arcium |
+| `anchor-escrow` | Escrow | Trustless token exchange between two parties via a PDA vault | Anchor |
+| `pinochhio-escrow` | Pinocchio Escrow | Optimized token escrow with atomic swaps and safe refunds | Pinocchio |
+| `anchor-multisig-vault` | Multi-Sig Vault | M-of-N signature treasury for proposals and withdrawals | Anchor |
+| `pinocchio-vault` | SOL Vault | Deposit and withdraw native SOL from a PDA vault | Pinocchio |
+| `anchor-vault` | Pre-Req Vault | Per-user SOL vault with external registration CPI | Anchor |
+| `sbpf-time-locked-vault` | Time-Locked Vault | Slot-based time lock written directly in sBPF assembly | sBPF Assembly |
+| `quasar-staking-contract` | Staking | Time-locked staking with linear rewards | Quasar |
+
 ## Program Directory
 
 The full categorized repository index lives in [PROGRAMS.md](programs.md).

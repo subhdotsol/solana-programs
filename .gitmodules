@@ -4,3 +4,6 @@
 [submodule "pinochhio-amm"]
 	path = pinochhio-amm
 	url = https://github.com/subhdotsol/pinocchio-amm
+[submodule "encrypted-calculator"]
+	path = encrypted-calculator
+	url = https://github.com/subhdotsol/The-encrypted-calculator

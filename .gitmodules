@@ -10,3 +10,6 @@
 [submodule "anchor-escrow"]
 	path = anchor-escrow
 	url = https://github.com/subhdotsol/escrow-turbin
+[submodule "pinochhio-escrow"]
+	path = pinochhio-escrow
+	url = https://github.com/subhdotsol/pinochhio-escrow

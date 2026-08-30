@@ -13,3 +13,6 @@
 [submodule "pinochhio-escrow"]
 	path = pinochhio-escrow
 	url = https://github.com/subhdotsol/pinochhio-escrow
+[submodule "anchor-multisig-vault"]
+	path = anchor-multisig-vault
+	url = https://github.com/subhdotsol/multisig-vault

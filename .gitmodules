@@ -7,3 +7,6 @@
 [submodule "encrypted-calculator"]
 	path = encrypted-calculator
 	url = https://github.com/subhdotsol/The-encrypted-calculator
+[submodule "anchor-escrow"]
+	path = anchor-escrow
+	url = https://github.com/subhdotsol/escrow-turbin

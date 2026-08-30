@@ -19,3 +19,6 @@
 [submodule "pinocchio-vault"]
 	path = pinocchio-vault
 	url = https://github.com/subhdotsol/pinnochio-vault
+[submodule "anchor-vault"]
+	path = anchor-vault
+	url = https://github.com/subhdotsol/turbin3-pre-req-vault

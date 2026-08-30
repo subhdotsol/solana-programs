@@ -4,11 +4,9 @@ A collection of Solana programs exploring on-chain systems, program architecture
 
 This repository is an index of my Solana work. Each program is maintained as an independent repository and included here as a Git submodule.
 
-## Structure
+## Program Directory
 
-| Directory | Program | Description | Language |
-| --------- | ------- | ----------- | -------- |
-| `anchor-amm` | AMM Sandbox | Constant-product automated market maker with liquidity deposits, swaps, and withdrawals | Anchor / Rust |
+The full categorized repository index lives in [PROGRAMS.md](programs.md).
 
 ## Setup
 

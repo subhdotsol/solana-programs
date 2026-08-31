@@ -25,6 +25,8 @@ This file is the complete index of programs in this repository. Browse by catego
 | Program | Description | Implementations | Features |
 | --- | --- | --- | --- |
 | Guestbook | On-chain guestbook for creating, updating, and deleting messages | [Anchor](guestbook-contract) | `CRUD` `PDA` `Messages` |
+| Calculator | Initialize a number, then double or add to it on-chain | [Anchor](anchor-calc-contract) | `Calculator` `Arithmetic` `State` |
+| Name Storage | Store and update a name string using Borsh, written natively without Anchor | [Native](name-storage-contract) | `Borsh` `Native` `State` |
 
 ## NFTs and Tokens
 

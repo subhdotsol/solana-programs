@@ -21,6 +21,8 @@ The following programs are currently included:
 | `sbpf-time-locked-vault` | Time-Locked Vault | Slot-based time lock written directly in sBPF assembly | sBPF Assembly |
 | `quasar-staking-contract` | Staking | Time-locked staking with linear rewards | Quasar |
 | `guestbook-contract` | Guestbook | On-chain guestbook for creating, updating, and deleting messages | Anchor |
+| `anchor-calc-contract` | Calculator | Initialize a number, then double or add to it on-chain | Anchor |
+| `name-storage-contract` | Name Storage | Store and update a name string using Borsh, written natively without Anchor | Native |
 
 ## Program Directory
 

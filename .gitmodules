@@ -31,3 +31,9 @@
 [submodule "guestbook-contract"]
 	path = guestbook-contract
 	url = https://github.com/subhdotsol/guestbook-contract
+[submodule "anchor-calc-contract"]
+	path = anchor-calc-contract
+	url = https://github.com/subhdotsol/Anchor-vs-raw_contracts
+[submodule "name-storage-contract"]
+	path = name-storage-contract
+	url = https://github.com/subhdotsol/name_storage

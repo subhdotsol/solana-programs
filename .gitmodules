@@ -28,3 +28,6 @@
 [submodule "quasar-staking-contract"]
 	path = quasar-staking-contract
 	url = https://github.com/subhdotsol/staking-quasar
+[submodule "guestbook-contract"]
+	path = guestbook-contract
+	url = https://github.com/subhdotsol/guestbook-contract

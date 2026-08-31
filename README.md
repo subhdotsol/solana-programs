@@ -20,6 +20,7 @@ The following programs are currently included:
 | `anchor-vault` | Pre-Req Vault | Per-user SOL vault with external registration CPI | Anchor |
 | `sbpf-time-locked-vault` | Time-Locked Vault | Slot-based time lock written directly in sBPF assembly | sBPF Assembly |
 | `quasar-staking-contract` | Staking | Time-locked staking with linear rewards | Quasar |
+| `guestbook-contract` | Guestbook | On-chain guestbook for creating, updating, and deleting messages | Anchor |
 
 ## Program Directory
 

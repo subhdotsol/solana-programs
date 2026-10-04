@@ -37,3 +37,6 @@
 [submodule "name-storage-contract"]
 	path = name-storage-contract
 	url = https://github.com/subhdotsol/name_storage
+[submodule "nft-staking-contract"]
+	path = nft-staking-contract
+	url = https://github.com/subhdotsol/nft-staking-program

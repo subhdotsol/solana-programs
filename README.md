@@ -23,6 +23,7 @@ The following programs are currently included:
 | `guestbook-contract` | Guestbook | On-chain guestbook for creating, updating, and deleting messages | Anchor |
 | `anchor-calc-contract` | Calculator | Initialize a number, then double or add to it on-chain | Anchor |
 | `name-storage-contract` | Name Storage | Store and update a name string using Borsh, written natively without Anchor | Native |
+| `nft-staking-contract` | NFT Staking | Stake NFTs to earn rewards with configurable lockup periods | Anchor |
 
 ## Program Directory
 

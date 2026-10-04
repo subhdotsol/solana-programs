@@ -32,6 +32,7 @@ This file is the complete index of programs in this repository. Browse by catego
 
 | Program | Description | Implementations | Features |
 | --- | --- | --- | --- |
+| NFT Staking | Stake NFTs to earn rewards with configurable lockup periods | [Anchor](nft-staking-contract) | `NFT` `Staking` `Rewards` `Lockup` |
 
 ## Data Structures
 

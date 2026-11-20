@@ -24,6 +24,7 @@ The following programs are currently included:
 | `anchor-calc-contract` | Calculator | Initialize a number, then double or add to it on-chain | Anchor |
 | `name-storage-contract` | Name Storage | Store and update a name string using Borsh, written natively without Anchor | Native |
 | `nft-staking-contract` | NFT Staking | Stake NFTs to earn rewards with configurable lockup periods | Anchor |
+| `sbpf-calculator` | sBPF Calculator | Checked u64 add/sub/mul/div with overflow checks, written directly in sBPF assembly | sBPF Assembly |
 
 ## Program Directory
 

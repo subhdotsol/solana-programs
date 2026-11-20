@@ -27,6 +27,7 @@ This file is the complete index of programs in this repository. Browse by catego
 | Guestbook | On-chain guestbook for creating, updating, and deleting messages | [Anchor](guestbook-contract) | `CRUD` `PDA` `Messages` |
 | Calculator | Initialize a number, then double or add to it on-chain | [Anchor](anchor-calc-contract) | `Calculator` `Arithmetic` `State` |
 | Name Storage | Store and update a name string using Borsh, written natively without Anchor | [Native](name-storage-contract) | `Borsh` `Native` `State` |
+| sBPF Calculator | Checked u64 add/sub/mul/div with overflow checks, written directly in sBPF assembly | [sBPF](sbpf-calculator) | `Calculator` `Assembly` `Overflow Checks` |
 
 ## NFTs and Tokens
 
